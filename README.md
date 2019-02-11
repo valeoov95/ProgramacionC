@@ -1,2 +1,2 @@
-# Programaci-n-en-C-
+# Programacion C
 PBSI-Programación en C 
